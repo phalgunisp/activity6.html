@@ -21,6 +21,15 @@ hr {
     margin-bottom: 26px;
 }
 
+ background-color: #131b8f;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px ;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9
+
 .registerbtn:hover {
     opacity:2;
   }
